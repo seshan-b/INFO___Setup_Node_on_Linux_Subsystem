@@ -211,17 +211,17 @@ If you already have some files in a Windows folder (e.g. your Foundations repos)
 
 To make your folder structure look organized.
 
-![Screenshot-from-2014-04-02-125152.png](Setup%20Node%20on%20Linux%20Subsystem%20616e8e949cf54c9196b81f9d7db2c1e1/Screenshot-from-2014-04-02-125152.png)
+![image_03.png](image_03.png)
 
 Run this command `sudo apt-get install tree`
 
 Also add some aliases into your *.zshrc* file
 
-![Capture.PNG](Setup%20Node%20on%20Linux%20Subsystem%20616e8e949cf54c9196b81f9d7db2c1e1/Capture.png)
+![image_02.png](image_02.png)
 
 You can also change your terminal colors: [https://opensource.com/article/19/9/linux-terminal-colors](https://opensource.com/article/19/9/linux-terminal-colors)
 
-![Capture.PNG](Setup%20Node%20on%20Linux%20Subsystem%20616e8e949cf54c9196b81f9d7db2c1e1/Capture%201.png)
+![image_01.png](image_01.png)
 
 ---
 
